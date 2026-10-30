@@ -136,6 +136,6 @@ Certified in Agile, Scrum & SAFe, with strong focus on Generative AI, prompt eng
 ---
 
 ## 📫 Contact
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/prashanthsreenivasan)  
-- **GitHub:** [github.com/yourusername](https://github.com/PrashanthSreenivasan)  
+- **LinkedIn:** [https://www.linkedin.com/in/prashanthsreenivasan] 
+- **GitHub:** [https://github.com/PrashanthSreenivasan] 
 - **Email:** sreenivasan.prashanth@gmail.com  
